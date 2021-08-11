@@ -7,7 +7,7 @@ namespace Arrays_and_Lists_Exercise_01_Answers
     {
         static void Main(string[] args)
         {
-            // TODO: Complete all the TODOs and push back to GitHub
+            // Use the method you created below to print out the contents
 
             #region Array Declaration and Initialization
 
