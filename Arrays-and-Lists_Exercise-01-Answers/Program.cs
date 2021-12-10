@@ -21,28 +21,20 @@ namespace Arrays_and_Lists_Exercise_01_Answers
             // TODO: Add 5 doubles to the array you just created using bracket notation
 
             // TODO: Declare and initialize an int array using ALL 5 of the different ways you are allowed to
-            // Use the methods you created below to print out the contents
 
             // TODO: Declare and initialize a string array using initializer syntax
-            // Use the method you created below to print out the contents
 
             // TODO: Declare and initialize a char array using initializer syntax
-            // Use the method you created below to print out the contents
 
             // TODO: Declare and initialize a bool array using initializer syntax
-            // Use the method you created below to print out the contents
 
             // TODO: Declare and initialize a list of strings using initializer syntax
-            // Use the method you created below to print out the contents
 
             // TODO: Declare and initialize a list of doubles using initializer syntax
-            // Use the method you created below to print out the contents
 
             // TODO: Declare and initialize a list of floats using initializer syntax
-            // Use the method you created below to print out the contents
 
             // TODO: Declare and initialize a list of chars using initializer syntax
-            // Use the method you created below to print out the contents
 
         }
 
