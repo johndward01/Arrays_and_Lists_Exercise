@@ -98,7 +98,7 @@ namespace Arrays_and_Lists_Exercise_01_Answers
             PrintNums(pets);
         }
 
-        // TODO: Create a method that accepts a list of ints, removes the first item from the list, and then prints the entire list to the console
+        // TODO: Create a method called PrintNums() that accepts a list of ints, removes the first item from the list, and then prints the entire list to the console
         public static void PrintNums(List<int> list)
         {
             list.RemoveAt(0);
