@@ -50,7 +50,6 @@ namespace Arrays_and_Lists_Exercise_01_Answers
 
 
             // TODO: Declare and initialize an int array using ALL 5 of the different ways you are allowed to
-            // Use the methods you created below to print out the contents
             int[] scores = new int[5] { 100, 99, 98, 97, 96 }; // Explicit v1 -> Completely explicit
             int[] scores1 = new int[] { 100, 99, 98, 97, 96 }; // Explicit v2 -> no size specified in brackets 
             int[] scores2 = { 100, 99, 98, 97, 96}; // Explicit v3 -> shortest syntax
@@ -60,43 +59,36 @@ namespace Arrays_and_Lists_Exercise_01_Answers
 
 
             // TODO: Declare and initialize a string array using initializer syntax
-            // Use the method you created below to print out the contents
             string[] weekDays = { "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" };
 
 
 
             // TODO: Declare and initialize a char array using initializer syntax
-            // Use the method you created below to print out the contents
             char[] grades = { 'A', 'B', 'B', 'C', 'A' };
 
 
 
             // TODO: Declare and initialize a bool array using initializer syntax
-            // Use the method you created below to print out the contents
             bool[] passesInspection = { true, false, true, false };
 
 
 
             // TODO: Declare and initialize a list of strings using initializer syntax
-            // Use the method you created below to print out the contents
             List<string> pets = new List<string>() { "Fido", "Spot", "Lassy", "Old yeller", "Champ" };
 
 
 
             // TODO: Declare and initialize a list of doubles using initializer syntax
-            // Use the method you created below to print out the contents
             var list1 = new List<double>() { .11, .22, .33, .44, .55 };
 
 
 
             // TODO: Declare and initialize a list of floats using initializer syntax
-            // Use the method you created below to print out the contents
             var list2 = new List<float>() { .11f, .22f, .33f, .44f, .55f };
 
 
 
             // TODO: Declare and initialize a list of chars using initializer syntax
-            // Use the method you created below to print out the contents
             var list3 = new List<char>() { 'a', 'b', 'c', '1', '2', '3' };
             
 
@@ -130,7 +122,7 @@ namespace Arrays_and_Lists_Exercise_01_Answers
 
 
 
-        // TODO: Create an overload of the above method that accepts a list of strings, removes the first item from the list, and then prints the entire list to the console
+        // TODO: Create an overload of the above method that accepts a list of doubles, removes the first item from the list, and then prints the entire list to the console
         public static void PrintNums(List<double> list)
         {
             list.RemoveAt(0);
@@ -142,7 +134,7 @@ namespace Arrays_and_Lists_Exercise_01_Answers
 
 
 
-        // TODO: Create an overload of the above method that accepts a list of strings, removes the first item from the list, and then prints the entire list to the console
+        // TODO: Create an overload of the above method that accepts a list of floats, removes the first item from the list, and then prints the entire list to the console
         public static void PrintNums(List<float> list)
         {
             list.RemoveAt(0);
