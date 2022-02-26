@@ -30,8 +30,6 @@ namespace Arrays_and_Lists_Exercise_01_Answers
             myIntergerList.Add(1);
             myIntergerList.Add(2);
             myIntergerList.Add(3);
-            myIntergerList.Add(4);
-            myIntergerList.Add(5);
 
 
 
